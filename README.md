@@ -42,8 +42,9 @@ Notable projects include the Business Banking Chatbot App and AI-Powered Online 
 
 ### 🎓 **Education**
 
-  **🎓 Taras Shevchenko National University of Kyiv | Graduated: 2022**
-    Bachelor of Science in Computer Science(2021)
+  - 💼 Taras Shevchenko National University of Kyiv | Graduated: 2022**
+  
+  - 🏅 Bachelor of Science in Computer Science(2021)
 
 ---
 
