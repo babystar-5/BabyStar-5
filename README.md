@@ -24,7 +24,8 @@ Seasoned and results-driven Project Manager(PM) from Ukraine with 7+ years of ex
 
 Adept at managing cross-functional teams, improving workflows, and delivering solutions on time and within budget.
 
-We have produced four large-scale projects and around 20 mid-sized ones. Notable projects include the Business Banking Chatbot App and AI-Powered Online Job Seeker Platform. We are passionate about building smart, scalable solutions that make a real impact.
+We have produced four large-scale projects and around 20 mid-sized ones. 
+Notable projects include the Business Banking Chatbot App and AI-Powered Online Job Seeker Platform. We are passionate about building smart, scalable solutions that make a real impact.
 
 ---
 
