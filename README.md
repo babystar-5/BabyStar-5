@@ -21,7 +21,9 @@ https://github.com/dam-pm-0716/dam-pm-0716
 ### 🌟 **About Me**
 
 Seasoned and results-driven Project Manager(PM) from Ukraine with 7+ years of experience in web development & AI engineering and then 2+ years leading New-Star Teams in delivering complex, high-impact IT projects.
+
 Adept at managing cross-functional teams, improving workflows, and delivering solutions on time and within budget.
+
 We have produced four large-scale projects and around 20 mid-sized ones. Notable projects include the Business Banking Chatbot App and AI-Powered Online Job Seeker Platform. We are passionate about building smart, scalable solutions that make a real impact.
 
 ---
