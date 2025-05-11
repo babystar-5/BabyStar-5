@@ -1,9 +1,7 @@
-## 👋 Hello. My name is Darmostuk and I am a seasoned project-management.
-
-**🚀 Porject Manager | React ⚛️ Node.js 🌐 Python 🐍 React Native ⚛️ | TypeScript 📜 SQL & NoSQL 💾
+## 👋 Hello. My name is Darmostuk and I am a seasoned project-manager.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moneshvenkul&base=100000&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="moneshvenkul" /> </p>
-https://github.com/pm-0716/pm-0716/tree/main
+https://github.com/dam-pm-0716/dam-pm-0716
 <a href="https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/">
   <img align="left" alt="Monesh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -22,11 +20,9 @@ https://github.com/pm-0716/pm-0716/tree/main
 
 ### 🌟 **About Me**
 
-- 🌐 A versatile **Full-Stack Developer** and tech enthusiast, blending hands-on experience in **web development** with advanced **AI/ML knowledge** to build innovative solutions.
-- 🛠️ Proficient in crafting modern, scalable web applications using **React**, **Vue.js**, **Node.js**, and **Angular**.
-- ☁️ Expert in cloud technologies, including **AWS**, **Azure**, and containerization tools like **Docker** and **Kubernetes**.
-- 🎯 Currently engaged in **front-end and API development** using Node.js**, focusing on seamless user experiences.
-- 🤝 A dedicated mentor and educator, committed to empowering future developers and fostering a collaborative tech community.
+Seasoned and results-driven Project Manager(PM) from Ukraine with 7+ years of experience in web development & AI engineering and then 2+ years leading New-Star Teams in delivering complex, high-impact IT projects.
+Adept at managing cross-functional teams, improving workflows, and delivering solutions on time and within budget.
+We have produced four large-scale projects and around 20 mid-sized ones. Notable projects include the Business Banking Chatbot App and AI-Powered Online Job Seeker Platform. We are passionate about building smart, scalable solutions that make a real impact.
 
 ---
 
