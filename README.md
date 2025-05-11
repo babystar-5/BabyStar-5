@@ -36,6 +36,17 @@ Notable projects include the Business Banking Chatbot App and AI-Powered Online 
 
 ---
 
+### 🎯 **Core Competence**
+
+  - 🔹 Project Lifecycle Management
+  - 🔹 Budgeting & Cost Control
+  - 🔹 Risk & Issue Management
+  - 🔹 JIRA / Confluence / Trello
+  - 🔹 Team Leadership & Mentoring
+  - 🔹 Stakeholder Communication
+
+---
+
 ### 🎓 **Education**
 
   - 💼 Taras Shevchenko National University of Kyiv | Graduated: 2022**
