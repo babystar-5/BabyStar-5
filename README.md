@@ -25,54 +25,45 @@ Seasoned and results-driven Project Manager(PM) from Ukraine with 7+ years of ex
 Adept at managing cross-functional teams, improving workflows, and delivering solutions on time and within budget.
 
 We have produced four large-scale projects and around 20 mid-sized ones. 
+
 Notable projects include the Business Banking Chatbot App and AI-Powered Online Job Seeker Platform. We are passionate about building smart, scalable solutions that make a real impact.
 
 ---
 
 ### 💼 **Professional Experience**
 
-- **🔹 Capital One | Senior Mobile Developer**
-  - 🏆 Led the development of Vue.js-based applications, boosting client satisfaction by 30%.
-  - 🔄 Implemented reusable TypeScript components, improving code efficiency and project scalability.
-  - 🔗 Integrated backend services and RESTful APIs for secure data operations.
-  - 🛡️ Advocated for **Test-Driven Development (TDD)**, enhancing application reliability.
-  - 🤝 Mentored junior developers and facilitated team code reviews.
-  
-- **🔹 Cognixia | Mobile Engineer**
-  - 🔍 Resolved critical bugs in complex workflows, improving system reliability for over 5,000 users.
-  - 🤝 Collaborated in Agile teams to deliver impactful, scalable solutions.
-  - ⚙️ Improved system performance with modern JavaScript frameworks and backend integration.
-
-- **🔹 University of New Haven | Assistant Provost**
-  - 📈 Launched new academic programs that increased enrollment by 15%.
-  - 📚 Conducted faculty workshops, elevating teaching practices.
-  - 🏅 Achieved a 95% satisfaction rate through targeted feedback initiatives.
-
-- **🔹 AlmaBetter | Mobile Software Dev Instructor**
-  - 👨‍🏫 Taught 15+ batches of students, focusing on real-world, project-based learning.
-  - 🚀 Helped students achieve an 80% placement rate at leading tech companies.
+  - 🏆 Managed 2 concurrent software projects with budgets totaling $37K+
+  - 🛡️ Led cross-functional teams of 5 developers, designers, and QA engineers
+  - 🤝 Collaborated with product owners to refine and prioritize backlog
 
 ---
 
 ### 🎓 **Education**
 
-- **🎓 Amerikanska Gymnasiet **
-  - M.S. in Business Analytics 📊 (Completed Dec 2023)
-- **🎓 Zero To Mastery Academy**
-  - Certification in Computer Science 💻 (Completed Dec 2023)
-- **🎓 Sathyabama University**
-  - Bachelor's in Computer Science (Completed Aug 2020)
+  **🎓 Taras Shevchenko National University of Kyiv | Graduated: 2022**
+    Bachelor of Science in Computer Science(2021)
 
 ---
 
-### 🌟 **Skills Highlight**
+### 🏆 **Certification**
 
-- **💻 Full-Stack Development**: React Native, React, Expo, Node.js
-- **🧠 AI/ML Integration**: TensorFlow, PyTorch, NLP, OpenAI deployment
-- **☁️ Cloud & DevOps**: AWS, Azure, Docker, Kubernetes, Jenkins
-- **📈 Data Management**: SQL, NoSQL (MongoDB, Cassandra)
-- **🔧 Agile Practices & TDD**: Project management, code reviews, mentorship
-- **🎨 UI/UX Design**: User-centric interfaces with accessibility standards
+  - 🏅 PMI Certified Project Management Professional (PMP) – 2023
+  - 🚀 New-Star Foundation - 2022
+  
+---
+
+### 🛡️ **Language**
+
+  - 🔹 Ukrainian - Native
+  - 🔹 English - Fluent(C1)
+  - 🔹 Japanese - Beginner(N5)
+  
+---
+
+### 🛠️ **Tools & Technologies**
+
+- **💻 Communication**: Telegram, Discord, Teams, Slack
+- **🌟 Technology**: JavaScript, Typescript, Python
 
 ---
 
@@ -80,12 +71,11 @@ Notable projects include the Business Banking Chatbot App and AI-Powered Online 
 
 <p align="left">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
