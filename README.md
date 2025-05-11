@@ -1,7 +1,7 @@
 ## 👋 Hello. My name is Darmostuk and I am a seasoned project-manager.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moneshvenkul&base=100000&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="moneshvenkul" /> </p>
-https://github.com/dam-pm-0716/dam-pm-0716
+https://github.com/dam-pm-0716/dam-pm-0716/tree/main
 <a href="https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/">
   <img align="left" alt="Monesh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
