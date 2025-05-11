@@ -1,4 +1,6 @@
-## 👋 Hello. My name is Darmostuk and I am a seasoned project-manager.
+## 👋 Hello, My name is Darmostuk.
+
+**🚀 Seasoned Project Manager | React ⚛️ Node.js 🌐 Python 🐍 |  OpenAI 🧠
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moneshvenkul&base=100000&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="moneshvenkul" /> </p>
 https://github.com/dam-pm-2032/dam-pm-2032
