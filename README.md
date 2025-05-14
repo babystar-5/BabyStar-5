@@ -31,7 +31,7 @@ Notable projects include the Business Banking Chatbot App and AI-Powered Online 
 ### 💼 **Professional Experience**
 
   - 🏆 Managed 2 concurrent software projects with budgets totaling $37K+
-  - 🛡️ Led cross-functional teams of 5 developers, designers, and QA engineers
+  - 🛡️ Led cross-functional teams of 5 developers and designers
   - 🤝 Collaborated with product owners to refine and prioritize backlog
 
 ---
@@ -41,17 +41,13 @@ Notable projects include the Business Banking Chatbot App and AI-Powered Online 
   - 🔹 Project Lifecycle Management
   - 🔹 Budgeting & Cost Control
   - 🔹 Risk & Issue Management
-  - 🔹 JIRA / Confluence / Trello
   - 🔹 Team Leadership & Mentoring
-  - 🔹 Stakeholder Communication
 
 ---
 
 ### 🎓 **Education**
 
-  - 💼 Taras Shevchenko National University of Kyiv | Graduated: 2022**
-  
-  - 🏅 Bachelor of Science in Computer Science(2021)
+  - 💼 KTH Royal Institute of Technology, Stockholm | Drop out: 2021
 
 ---
 
@@ -64,7 +60,6 @@ Notable projects include the Business Banking Chatbot App and AI-Powered Online 
 
 ### 🛡️ **Language**
 
-  - 🔹 Ukrainian - Native
   - 🔹 English - Fluent(C1)
   - 🔹 Japanese - Beginner(N5)
   
