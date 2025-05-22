@@ -1,9 +1,9 @@
-## 👋 Hello, My name is Darmostuk.
+## 👋 Hello, My name is Mykola.
 
-**🚀 Seasoned Project Manager  |  React ⚛️ Node.js 🌐 Python 🐍 |  OpenAI 🧠
+**🚀 Seasoned Project Manager  |  PHP  JavaScript  React.js  Node.js  Python  |  OpenAI 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moneshvenkul&base=100000&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="moneshvenkul" /> </p>
-https://github.com/dam-pm-2032/dam-pm-2032
+https://github.com/mykola-519/mykola-519
 <a href="https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/">
   <img align="left" alt="Monesh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -18,7 +18,7 @@ https://github.com/dam-pm-2032/dam-pm-2032
 
 ### 🌟 **About Me**
 
-Seasoned and results-driven Project Manager(PM) from Ukraine with 7+ years of experience in web development & AI engineering and then 2+ years leading New-Star Teams in delivering complex, high-impact IT projects.
+Seasoned and results-driven project manager from Ukraine with 7+ years of experience in web development & AI engineering and then 2+ years leading New-Star Teams in delivering complex, high-impact IT projects.
 
 Adept at managing cross-functional teams, improving workflows, and delivering solutions on time and within budget.
 
@@ -47,7 +47,7 @@ Notable projects include the Business Banking Chatbot App and AI-Powered Online 
 
 ### 🎓 **Education**
 
-  - 💼 KTH Royal Institute of Technology, Stockholm | Drop out: 2021
+  - 💼 State University 'Lviv Polytechnics': 1997 - 2001 | Computer Science
 
 ---
 
@@ -58,17 +58,9 @@ Notable projects include the Business Banking Chatbot App and AI-Powered Online 
   
 ---
 
-### 🛡️ **Language**
+### 🛠️ **Communication Tools**
 
-  - 🔹 English - Fluent(C1)
-  - 🔹 Japanese - Beginner(N5)
-  
----
-
-### 🛠️ **Tools & Technologies**
-
-- **💻 Communication**: Telegram, Discord, Teams, Slack
-- **🌟 Technology**: JavaScript, Typescript, Python
+- **💻 Telegram, Discord, Teams..
 
 ---
 
