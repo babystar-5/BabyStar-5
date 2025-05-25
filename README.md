@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/mykola-519"><img
-      src="https://readme-typing-svg.herokuapp.com/?lines=E-commerce%20developer;Full-stack%20engineer;AI%20engineer%;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+      src="https://readme-typing-svg.herokuapp.com/?lines=E-commerce%20developer;Full-stack%20engineer;AI%20engineer;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 ## 👋 Hello, My name is Mykola.
