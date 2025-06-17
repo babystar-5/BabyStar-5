@@ -3,12 +3,12 @@
       src="https://readme-typing-svg.herokuapp.com/?lines=E-commerce%20developer;Full-stack%20engineer;AI%20engineer;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-## 👋 Hello, My name is Mykola.
+## 👋 Hello, My name is Darmostuk.
 
-**🚀 Seasoned Project Manager  |  PHP  JavaScript  React.js  Node.js  Python  |  OpenAI 
+**🚀 Seasoned Shopify designing  |  PHP  JavaScript  React.js  Node.js   |   Python  OpenAI 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moneshvenkul&base=100000&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="moneshvenkul" /> </p>
-https://github.com/mykola-519/mykola-519
+https://github.com/darmostuk-716/darmostuk-716
 <a href="https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/">
   <img align="left" alt="Monesh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
