@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://github.com/mykola-519"><img
+  <a href="https://github.com/BabyStar-5"><img
       src="https://readme-typing-svg.herokuapp.com/?lines=E-commerce%20developer;Full-stack%20engineer;AI%20engineer;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-## 👋 Hello, My name is Darmostuk.
+## 👋 Hello, My name is Ivan Ruslan.
 
 **🚀 Seasoned Shopify designing  |  PHP  JavaScript  React.js  Node.js   |   Python  OpenAI 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moneshvenkul&base=100000&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="moneshvenkul" /> </p>
-https://github.com/darmostuk-716/darmostuk-716
+https://github.com/babystar-5/babystar-5
 <a href="https://www.linkedin.com/in/monesh-venkul-vommi-8a80b6174/">
   <img align="left" alt="Monesh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -23,7 +23,7 @@ https://github.com/darmostuk-716/darmostuk-716
 
 ### 🌟 **About Me**
 
-Seasoned and results-driven project manager from Ukraine with 7+ years of experience in web development & AI engineering and then 2+ years leading New-Star Teams in delivering complex, high-impact IT projects.
+Seasoned and results-driven project manager from Ukraine with 9+ years of experience in web development & AI engineering and then 2+ years leading Baby-Star Teams in delivering complex, high-impact IT projects.
 
 Adept at managing cross-functional teams, improving workflows, and delivering solutions on time and within budget.
 
@@ -35,7 +35,7 @@ Notable projects include the Business Banking Chatbot App and AI-Powered Online 
 
 ### 💼 **Professional Experience**
 
-  - 🏆 Managed 2 concurrent software projects with budgets totaling $37K+
+  - 🏆 Managed 2 concurrent software projects with budgets totaling $22K+
   - 🛡️ Led cross-functional teams of 5 developers and designers
   - 🤝 Collaborated with product owners to refine and prioritize backlog
 
@@ -52,7 +52,7 @@ Notable projects include the Business Banking Chatbot App and AI-Powered Online 
 
 ### 🎓 **Education**
 
-  - 💼 State University 'Lviv Polytechnics': 1997 - 2001 | Computer Science
+  - 💼 State University 'Lviv Polytechnics': 2010 - 2014 | Computer Science
 
 ---
 
@@ -65,7 +65,7 @@ Notable projects include the Business Banking Chatbot App and AI-Powered Online 
 
 ### 🛠️ **Communication Tools**
 
-- **💻 Telegram, Discord, Teams..
+- 💻 WhatsApp, Telegram, Teams..
 
 ---
 
