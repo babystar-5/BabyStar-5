@@ -14,7 +14,7 @@
 
 ---
 
-#### Experience: 5+ Years in Blockchain | 7+ Years in Full-Stack Development
+#### Experience: 5+ Years in Blockchain | 10+ Years in Full-Stack Development
 
 #### Languages: Solidity, JavaScript, TypeScript, Rust, Go, Python
 
