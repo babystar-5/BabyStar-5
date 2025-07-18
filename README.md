@@ -1,9 +1,3 @@
-Experience: 5+ Years in Blockchain | 7+ Years in Full-Stack Development
-
-Languages: Solidity, JavaScript, TypeScript, Rust, Go, Python
-
-Blockchain Platforms: Ethereum, BSC, Polygon, Solana, Avalanche
-
 ---
 
 ### **About Me**
@@ -20,3 +14,8 @@ Let’s build the future of the internet together.
 
 ---
 
+Experience: 5+ Years in Blockchain | 7+ Years in Full-Stack Development
+
+Languages: Solidity, JavaScript, TypeScript, Rust, Go, Python
+
+Blockchain Platforms: Ethereum, BSC, Polygon, Solana, Avalanche
