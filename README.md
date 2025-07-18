@@ -2,7 +2,7 @@
 
 # About Me
 
-### Hi, I’m a passionate Blockchain Developer with over 5 years of experience building decentralized applications (dApps), smart contracts, and Web3 integrations across Ethereum, Polygon, BSC, and more.
+##### Hi, I’m a passionate Blockchain Developer with over 5 years of experience building decentralized applications (dApps), smart contracts, and Web3 integrations across Ethereum, Polygon, BSC, and more.
 
 ### With a strong foundation in Solidity, JavaScript/TypeScript, and full-stack development, I specialize in creating secure, efficient, and scalable blockchain solutions — from token contracts and NFT platforms to complex DeFi systems and DAO infrastructures.
 
