@@ -6,7 +6,7 @@ about: |
 
   🚀 𝗛𝗼𝘄 𝗜 𝗰𝗮𝗻 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂 𝗪𝗜𝗡:
   
-  𝐀𝐈 𝐂𝐡𝐚𝐭𝐛𝐨𝐭𝐬 & 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭𝐬: Develop conversational agents with GPT-4, RAG pipelines, vector DBs for customer support and engagement.
+  #𝐀𝐈 𝐂𝐡𝐚𝐭𝐛𝐨𝐭𝐬 & 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭𝐬: Develop conversational agents with GPT-4, RAG pipelines, vector DBs for customer support and engagement.
   
   𝐕𝐨𝐢𝐜𝐞 𝐀𝐠𝐞𝐧𝐭𝐬: Build voice-enabled solutions using OpenAI and Deepgram integrations.
   
