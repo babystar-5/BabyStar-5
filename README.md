@@ -3,7 +3,6 @@
 # About Me
 
 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒏𝒆𝒙𝒕-𝒈𝒆𝒏 𝑨𝑰-𝒆𝒏𝒉𝒂𝒏𝒄𝒆𝒅 𝒑𝒓𝒐𝒅𝒖𝒄𝒕𝒔 𝒕𝒉𝒂𝒕 𝒔𝒄𝒂𝒍𝒆. 
-I merge elite full stack development with intelligent AI automation-ensuring your product not only works beautifully but also works smart.
 
 🚀 𝗛𝗼𝘄 𝗜 𝗰𝗮𝗻 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂 𝗪𝗜𝗡:
 𝐀𝐈 𝐂𝐡𝐚𝐭𝐛𝐨𝐭𝐬 & 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭𝐬: Develop conversational agents with GPT-4, RAG pipelines, vector DBs for customer support and engagement.
